@@ -31,8 +31,8 @@ public class BinarySearchProblem {
 		
 		if( find == true) {
 			mid++;
-			System.out.println("Ã£´Â ¼ö´Â " + mid + "¹øÂ° ÀÖ½À´Ï´Ù.");
-		} else System.out.println("Ã£´Â ¼ö°¡ ¾ø½À´Ï´Ù.");
+			System.out.println("ì°¾ëŠ” ìˆ˜ëŠ” " + mid + "ë²ˆì§¸ ìžˆìŠµë‹ˆë‹¤.");
+		} else System.out.println("ì°¾ëŠ” ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.");
 		
 		
 		

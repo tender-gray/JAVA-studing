@@ -24,9 +24,10 @@ public class MinMaxProblem {
 				maxPos = i+1;
 			}
 		}
-		
-		System.out.println("���� ū ���� " + max + "�̰�, ��ġ�� " + maxPos + "��° �Դϴ�.");
-		System.out.println("���� ���� ���� " + min + "�̰�, ��ġ�� " + minPos + "��° �Դϴ�.");
+
+		System.out.println("가장 큰 값은 " + max + "이고, 위치는 " + maxPos + "번째 입니다.");
+		System.out.println("가장 작은 값은 " + min + "이고, 위치는 " + minPos + "번째 입니다.");
+
 	}
 
-}   // 한글이 아예 안써지나
+}
