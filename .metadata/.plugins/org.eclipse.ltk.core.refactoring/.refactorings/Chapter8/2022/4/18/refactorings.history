@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UndirectedGraph.java&apos; to &apos;Chapter8/src/ch04.graph&apos;&#x0D;&#x0A;- Original project: &apos;Chapter8&apos;&#x0D;&#x0A;- Destination element: &apos;Chapter8/src/ch04.graph&apos;&#x0D;&#x0A;- Original element: &apos;ch04.UndirectedGraph.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;ch04.graph" element1="/src&lt;ch04{UndirectedGraph.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1650900622307" units="1" version="1.0"/>
+</session>
